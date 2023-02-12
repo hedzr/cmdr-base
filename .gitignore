@@ -1,6 +1,7 @@
 .idea/
 *.iml
 .DS\_Store
+*.code-workspace
 tmp/
 bin/
 output/
@@ -61,7 +62,6 @@ test/test
 .glide/
 
 .pid/
-
 
 devops
 main
