@@ -1,3 +1,4 @@
+// Package cmdrplugin is a very predecessor for hedzr/cmdr library, which provides the PluginEntry and relevant declarations for cmdr.
 package cmdrplugin
 
 // PluginEntry entry of an addon (golang plugin)
